@@ -15,7 +15,6 @@
           Icon Designed by
           <a target="_blank" href="https://thenounproject.com/richard.slater">Richard Slater</a>
           
-          ✕
 
 
 ## Font

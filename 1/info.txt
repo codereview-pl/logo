@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Midiet_Serif_Bold
+font link: http://www.yoworks.com/midiet/index.html
+font author: Yamaoka Yasuhiro
+font author site: http://www.yoworks.com/
+
+
+icon designer: Richard Slater
+icon designer link: /richard.slater
+        
+
+fontColor: {"gradient-0":"#EFA000","gradient-1":"#EF8300"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#EFA000","gradient-1":"#EF8300"}
+
+      

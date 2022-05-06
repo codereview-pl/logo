@@ -1,10 +1,11 @@
 ![codereview.png](https://logo.codereview.pl/1/cover.png)
 
-# Logotyp codereview.pl
-+ [Landing page: www.codereview.pl](https://www.codereview.pl/)
-+ [Dokumentacja](https://docs.codereview.pl/)
-+ [Logotyp codereview.pl](https://logo.codereview.pl/)
+# [Logotyp: logo.codereview.pl](https://logo.codereview.pl/)
 
++ [Strona informacyjna: www.codereview.pl](https://www.codereview.pl/)
++ [Pryzkłady - examples.codereview.pl](http://examples.codereview.pl)
+
++ [LICENSE](LICENSE)
 
 
 ## Font
